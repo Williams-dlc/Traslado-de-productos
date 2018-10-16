@@ -21,5 +21,15 @@ namespace _5700_TrasladoProducto
         {
 
         }
+
+        private void Traslado_Producto_HelpRequested(object sender, HelpEventArgs hlpevent)
+        {
+            Help.ShowHelp(this, "D:/Octavo semestre/Analisis de sistemas 2/traslado producto/Primera fase/Ayuda traslado producto/ayuda_traslado.chm", "ayuda.html");
+        }
+
+        private void btnAyuda_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "D:/Octavo semestre/Analisis de sistemas 2/traslado producto/Primera fase/Ayuda traslado producto/ayuda_traslado.chm", "ayuda.html");
+        }
     }
 }

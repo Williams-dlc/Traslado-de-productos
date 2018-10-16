@@ -7,3 +7,12 @@ c:\users\williams cuesta\documents\visual studio 2015\Projects\5700_TrasladoProd
 c:\users\williams cuesta\documents\visual studio 2015\Projects\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\5700_TrasladoProducto.exe
 c:\users\williams cuesta\documents\visual studio 2015\Projects\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\5700_TrasladoProducto.pdb
 C:\Users\Williams Cuesta\documents\visual studio 2015\Projects\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\_5700_TrasladoProducto.Traslado_Producto.resources
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\bin\Debug\5700_TrasladoProducto.exe.config
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\5700_TrasladoProducto.exe
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\5700_TrasladoProducto.pdb
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\bin\Debug\5700_TrasladoProducto.exe
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\bin\Debug\5700_TrasladoProducto.pdb
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\5700_TrasladoProducto.csprojResolveAssemblyReference.cache
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\_5700_TrasladoProducto.Traslado_Producto.resources
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\_5700_TrasladoProducto.Properties.Resources.resources
+C:\Users\Williams Cuesta\Source\Repos\Traslado-de-productos\5700_TrasladoProducto\5700_TrasladoProducto\obj\Debug\5700_TrasladoProducto.csproj.GenerateResource.Cache
